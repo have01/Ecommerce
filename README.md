@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+![Treerex store](https://user-images.githubusercontent.com/53529978/218433841-f70bb564-4ba4-4a04-aa0c-3d282212be0e.PNG)
+##### Project Link: https://treerexstore.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
